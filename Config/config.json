@@ -1,6 +1,6 @@
 {
     "client_version"  : 32,
-    "client_repo_url" : "https://github.com/AndyGrant/OpenBench",
+    "client_repo_url" : "https://github.com/DeveloperPaul123/OpenBench",
     "client_repo_ref" : "master",
 
     "use_cross_approval"          : false,
@@ -27,6 +27,7 @@
         "Berserk",
         "Bit-Genie",
         "BlackMarlin",
+        "ByteKnight",
         "Demolito",
         "Drofa",
         "Equisetum",
