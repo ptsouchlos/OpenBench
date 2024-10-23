@@ -1,14 +1,12 @@
 {
-    "client_version"  : 32,
-    "client_repo_url" : "https://github.com/DeveloperPaul123/OpenBench",
-    "client_repo_ref" : "master",
-
-    "use_cross_approval"          : false,
-    "require_login_to_view"       : false,
-    "require_manual_registration" : false,
-    "balance_engine_throughputs"  : false,
-
-    "books" : [
+    "client_version": 32,
+    "client_repo_url": "https://github.com/DeveloperPaul123/OpenBench",
+    "client_repo_ref": "master",
+    "use_cross_approval": false,
+    "require_login_to_view": false,
+    "require_manual_registration": false,
+    "balance_engine_throughputs": false,
+    "books": [
         "2moves_v1.epd",
         "3moves_FRC.epd",
         "4moves_noob.epd",
@@ -21,28 +19,12 @@
         "UHO_4060_vB.epd",
         "UHO_4060_vT.epd"
     ],
-
-    "engines" : [
+    "engines": [
         "4ku",
-        "Berserk",
-        "Bit-Genie",
         "BlackMarlin",
         "ByteKnight",
-        "Demolito",
-        "Drofa",
-        "Equisetum",
+        "Carp",
         "Ethereal",
-        "FabChess",
-        "Halogen",
-        "Igel",
-        "Koivisto",
-        "Laser",
-        "RubiChess",
-        "Seer",
-        "Stash",
-        "Stockfish",
-        "Weiss",
-        "Winter",
-        "Zahak"
+        "Stockfish"
     ]
 }
